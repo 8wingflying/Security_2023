@@ -1,6 +1,6 @@
 # Int_security_2023
 
-## 資安人才
+## 資安人才 ==> 你想要成為那一/些類資安人才?
 - 美國NICE網路安全人才框架
   - [NIST SP 800-181 Rev. 1  Workforce Framework for Cybersecurity (NICE Framework)](https://csrc.nist.gov/publications/detail/sp/800-181/rev-1/final)
   - 7大類別，33個專業領域，畫分出52種工作角色，並定義4種與工作角色相關元件，包括930種任務（T0001-T0930）、374種技能（S0001-S0374）、628種知識（K0001-K0628），以及177種能力（A0001-A0177）
