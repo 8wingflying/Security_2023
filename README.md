@@ -18,8 +18,19 @@
     - 10.CYBERSECURITY RISK MANAGER
     - 11.DIGITAL FORENSICS INVESTIGATOR
     - 12.PENETRATION TESTER
-- 我國
-- 臺灣資安「職能參考基準」
+- [金融資安人才職能地圖](https://www.ithome.com.tw/news/156897)
+  - 三大類別，在各類別之下，涵蓋10個專業領域
+    - 監督治理
+      - 系統規畫
+      - 軟體開發
+      - 品管測試。
+    - 安全開發
+    - 資安維運
+      - 系統網路管理
+      - 弱點管理
+      - 資安防護
+      - 事件應變
+- [ITHOME|2023最新資安人才趨勢大公開](https://www.ithome.com.tw/article/157173)
 - [ITHOME|資安人才專欄](https://www.ithome.com.tw/tags/%E8%B3%87%E5%AE%89%E4%BA%BA%E6%89%8D)
 
 ## 資安證照
