@@ -15,11 +15,12 @@
 - 更多進階課程 請參閱並請多多參加
   - [資安職能 - 國家資通安全研究院](https://ctts.nics.nat.gov.tw/about/Training) 
 
-# 資安專業證照:政府推動資安專業證照
-- 經濟部產業人才能力鑑定 Industry Professional Assessment System
+# 資安專業證照:政府推動的IPAS資安專業證照
+- IPAS經濟部產業人才能力鑑定 Industry Professional Assessment System
   - [資訊安全工程師](https://www.ipas.org.tw/ISE) 
   - [歷年考試成果](https://www.ipas.org.tw/ISE/AbilityPageContent.aspx?pgeno=b53d1159-f9d1-415b-bd2f-b915ae16e39d)
   - [初級資訊安全工程師能力鑑定](https://www.ipas.org.tw/ISE/AbilityExamBulletinList.aspx?exmno=53521ea9-1f19-4f78-a13c-00e51edf943e)
+    - 特別留意: 此課程`不是`「行政院國家資通安全會報」認可之資通安全專業證照
     - 考試項目 :1.資訊安全管理概論 2.資訊安全技術概論
   - [中級資訊安全工程師能力鑑定](https://www.ipas.org.tw/ISE/AbilityExamBulletinList.aspx?exmno=8af59a16-8cff-4f54-8e2a-bd08d280fefe)
     - 此課程為「行政院國家資通安全會報」認可之資通安全專業證照
