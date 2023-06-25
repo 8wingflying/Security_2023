@@ -20,13 +20,9 @@
   - [資訊安全工程師](https://www.ipas.org.tw/ISE) 
   - [歷年考試成果](https://www.ipas.org.tw/ISE/AbilityPageContent.aspx?pgeno=b53d1159-f9d1-415b-bd2f-b915ae16e39d)
   - [初級資訊安全工程師能力鑑定](https://www.ipas.org.tw/ISE/AbilityExamBulletinList.aspx?exmno=53521ea9-1f19-4f78-a13c-00e51edf943e)
-    - 考試日期 : 2023/11/25 ~ 2023/11/25
-    - 報名日期 : 2023/06/05 ~ 2023/10/10
     - 考試項目 :1.資訊安全管理概論 2.資訊安全技術概論
   - [中級資訊安全工程師能力鑑定](https://www.ipas.org.tw/ISE/AbilityExamBulletinList.aspx?exmno=8af59a16-8cff-4f54-8e2a-bd08d280fefe)
     - 此課程為「行政院國家資通安全會報」認可之資通安全專業證照
-    - 考試日期 : 2023/08/12 ~ 2023/08/12
-    - 報名日期 : 2023/04/01 ~ 2023/07/01
     - 考試項目 :1. 資訊安全規劃實務 2. 資訊安全防護實務
 # 資安專業證照:國際資安專業證照
 - 管理
