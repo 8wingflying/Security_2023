@@ -4,7 +4,7 @@
 - 考試項目 :
   - 1. 資訊安全規劃實務 
   - 2. 資訊安全防護實務
-- https://drive.google.com/drive/folders/1v7xs3Og5GI7S7fFTVrjTLaCTPItt3tWQ 
+
 ## DAY 1	資訊安全規劃實務1	
 - 資訊安全管理系統規劃與建置(3小時)
   - ISMS 資訊安全管理制度(ISO 27000/27001/27002)
