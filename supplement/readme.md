@@ -101,18 +101,22 @@
   - 媒體控管-重用(reuse)
   - 媒體控管-安全丟棄(disposal)
  - 可攜式設備管理(Mobile device management|MDM)
+   - 可攜式設備(Mobile device)
+   - 可攜式設備-安全問題
+   - 可攜式設備管理-政策(policy)| 存取控制(access controls) |稽核(logging)
+   - 可攜式設備管理工具與技術-自動化安裝或啟用控管程式
+   - 可攜式設備-稽核紀錄內容
  - 弱點掃描(Vulnerability Scanning) ==> 目的 |
-   -  [OWASP|Vulnerability Scanning Tools| Dynamic Application Security Testing (DAST)](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
-   -  系統弱點掃描 ==> Nessus Pro | Nexpose
-   -  網頁弱點掃描 ==> Acunetix | HCL AppScan(原IBM Security AppScan) |
- - 滲透測試(Penetration Tezt)
+   - [OWASP|Vulnerability Scanning Tools| Dynamic Application Security Testing (DAST)](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
+   - 系統弱點掃描 ==> Nessus Pro | Nexpose
+   - 網頁弱點掃描 ==> Acunetix | HCL AppScan(原IBM Security AppScan) | Fortify WebInspect(原 HP WebInspect)
+ - 滲透測試(Penetration Test)
  - 稽核作業(Logging)-稽核紀錄分析(log analysis)
+   - 稽核紀錄(log| log record)
+   - 稽核紀錄分析(log analysis): 目的 | 
    - 稽核紀錄的保護(log protection)
    - [NIST SP 800-92 Guide to Computer Security Log Management](https://csrc.nist.gov/publications/detail/sp/800-92/final)
- 
-
-
-
+ - 社交工程演練 ==> 防範社交工程攻擊
 
 - CISSP| Domain 7. Security Operations
 ## 第5單元 資訊委外安全
@@ -129,31 +133,32 @@
   - 輸入攻擊
 - 軟體開發生命週期安全(Secure Software Development Life Cycle, SSDLC)
 - 應用程式安全控制==> 強化程式安全的各種做法
-  - 變更控制
-  - 職責區隔
+  - 變更控制(Change Controls)
+  - 職責區隔(SOD|Segregation Of Duties)
   - 程式庫維護
   - 應用程式安全檢測
     - 入侵防禦系統(Intrusion Prevention System, IPS)：具備部份防禦功能
     - 源碼檢測(Static Code Analysis)：使用自動化的源碼檢測工具找出有問題的程式碼
+      - ==> SAST（Static Application Security Testing，靜態應用程式安全測試）對應用程式原始碼執行直接的白盒分析(whitebox)
     - 網頁應用程式防火牆(Web Application Firewall, WAF)：針對應用層攻擊進行防禦
-    - 滲透測試(Penetration Test, PT )：模擬攻擊者行為找出網站漏洞
+    - 滲透測試(Penetration Test, PT )：模擬攻擊者行為找出網站漏洞 ==> 黑盒分析(blackbox)
     - 網站弱點評估(Web Vulnerability Assessment)：使用掃描工具檢測弱點
-  - 行動應用程式安全
-    - 政府行動化安全防護規劃報告V1.0」第61~62頁
-    - 行動應用程式的開發過程，會衍生二大安全議題:
-      - 1.行動應用程式碼的安全性議題 :
-        - 因撰寫方式的錯誤，使用Apps存有安全弱點，導致系統遭入侵
-        - 參考OWASP Mobile TOP 10
-          - Top 10 Mobile Risks Beta 2 Draft 2023
-        - 行動裝置資安防護參考指引
-        - 解決方法建議遵守安全系統發展生命週期進行開發，藉助第三方或是自動化檢測進行白箱、黑箱靜態與動態之檢測。
+- 行動應用程式安全(Mobile app Security)
+  - 政府行動化安全防護規劃報告V1.0」第61~62頁
+  - 行動應用程式的開發過程，會衍生二大安全議題:
+    - 1.行動應用程式碼的安全性議題 :
+      - 因撰寫方式的錯誤，使用Apps存有安全弱點，導致系統遭入侵
+      - 參考OWASP Mobile TOP 10
+        - Top 10 Mobile Risks Beta 2 Draft 2023
+      - 行動裝置資安防護參考指引
+      - 解決方法建議遵守安全系統發展生命週期進行開發，藉助第三方或是自動化檢測進行白箱、黑箱靜態與動態之檢測。
         - [OWASP Mobile Application Security](https://owasp.org/www-project-mobile-app-security/)
         - [OWASP Mobile Application Security Verification Standard (MASVS)](https://owasp.org/www-project-mobile-app-security/)
         - [Mobile Application Security Checklist](https://owasp.org/www-project-mobile-app-security/)
-      - 2.隱私侵犯的議題
-        - 因程式開發時，索取過多行動裝置上的敏感資訊，例如：通訊錄、行事曆、座標位置、郵件、簡訊內容等
-        - 建議遵守Privacy by Design之原則，將隱私保護之概念，融入於應用程式的設計 
-- Web應用程式安全
+    - 2.隱私侵犯的議題
+      - 因程式開發時，索取過多行動裝置上的敏感資訊，例如：通訊錄、行事曆、座標位置、郵件、簡訊內容等
+      - 建議遵守Privacy by Design之原則，將隱私保護之概念，融入於應用程式的設計 
+- Web應用程式安全(Web app Security)
   - [OWASP Top 10 2021](https://owasp.org/Top10/zh_TW/)
   - A1	權限控制失效(Broken Access Control)
   - A2	加密機制失效(Cryptographic Failures)
@@ -170,7 +175,10 @@
   - A8	軟體及資料完整性失效(Software and Data Integrity Failures)
   - A9	資安記錄及監控失效(Security Logging and Monitoring Failures)
   - A10	伺服端請求偽造(Server-Side Request Forgery)
-
+- Cloud NAtive-APP雲端原生應用程式
+  - Cloud-native applications雲端原生應用程式
+  - OWASP Cloud-Native Application Security Top 10(尚未定稿| 缺人)
+- [Internet of Things (IoT) Top 10 2018](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoT_Top_10)
 ## 第9單元 資通安全健診
 - 資通安全健診:目的
 - 資通安全健診:項目
