@@ -3,7 +3,8 @@
 
 # IPAS_中階_題型
 ```
-網路安全框架(Cybersecurity Framework, CSF)為美國國家標準暨技 術研究院(National Institute of Standards and Technology,NIST)彙整後所提出，
+網路安全框架(Cybersecurity Framework, CSF)為美國國家標準暨技術研究院
+(National Institute of Standards and Technology,NIST)彙整後所提出，
 作為整體網路安全架構之規劃藍圖參考，請問該CSF之 組成元素包含下列哪些項目?
 (A) 框架核心(Framework Core)            (B) 框架設定檔(Framework Profile)
 (C) 實施程序(Framework Procedure)   (D) 實施層級(Implementation Tiers)
