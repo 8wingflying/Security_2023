@@ -78,5 +78,56 @@
   - A10	伺服端請求偽造(Server-Side Request Forgery)
 
 ## 第9單元 資通安全健診
+- 資通安全健診:目的
+- 資通安全健診:項目
+  - 機關定期辦理資通安全健診(A級機關每年1次，B級機關每2年1次)，檢測項目包含：
+    - 1.網路架構檢視
+    - 2.網路惡意活動檢視
+      - a.封包側錄
+      - b.資安設備紀錄檔(log)分析
+    - 3.使用者端電腦惡意活動檢視
+    - 4.伺服器主機惡意活動檢視
+    - 5.目錄伺服器(Directory Service)設定檢視 ==> Windows Server 2022 AD(active Directory)的安全設定
+    - 6.防火牆連線設定檢視 ==>防火牆規則檢視
+- 資通安全健診:流程
+
+
+
 ## 第10單元 資通安全事件通報及應變
 - incident vs event
+- [資通安全事件通報及應變辦法(共21條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030305)
+  - 第一章 總則
+    - 第 2 條 資通安全事件分為四級。
+      - 資通安全事件分級由輕至重分「1」、「2」、「3」、「4」四個級別
+      - 這四個級別怎麼定?
+    - 第 3 條 資通安全事件之`通報內容`  ==> 參考3-63頁
+  - 第二章 公務機關資通安全事件之通報及應變
+    - 第 4 條 通報
+    - 第 5 條 審核
+    - 第 6 條 應變 ==>
+    - 第 9 條 `通報`作業規範
+    - 第 10 條 `應變`作業規範
+ - 第三章 特定非公務機關資通安全事件之通報及應變
+    - 第 11 條 通報
+    - 第 12 條 審核
+    - 第 13 條 應變 ==>
+    - 第 15 條 `通報`作業規範
+    - 第 15 條 `應變`作業規範
+ - 第四章 附則
+   - 第 18 條 公務機關 資通安全演練作業
+   - 第 19 條  特定非公務機關  資通安全演練作業
+- 資安事件處理(incidenet handling)
+  - [NIST SP 800 61r2 Computer Security Incident Handling Guide ](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
+  - 目的
+  - 資安事件處理計畫
+  - 資安事件處理程序|流程
+  - NIST SP 800-53, Revision 5| IR: Incident Response   Controls [參考資料](https://csf.tools/reference/nist-sp-800-53/r5/ir/)
+    - IR-1: Policy and Procedures
+    -  電腦緊急應變小組（Computer Emergency Response Team，CERT）
+    -  電腦資安事件應變小組（Computer Security Incident Response Team，CSIRT）
+    -  產品資安事件應變小組（Product Security Incident Response Team，PSIRT）
+
+- [Incident Handling & Response Career Path(入侵處理與響應 資安職涯發展) | EC-Council](https://www.eccouncil.org/incident-handling-response-career-path/)
+ 
+- 數位證據(Digital Evidence)
+
