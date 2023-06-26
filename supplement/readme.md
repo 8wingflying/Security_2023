@@ -4,7 +4,7 @@
 - [資通安全目標: CIA](CIA.md)
 - NIST CSF 安全架構 [NIST CSF 安全架構](NIST_CSF.md)
 ## 第2單元 資通安全相關法規
-- 法規
+- A.法規
   - 資通安全管理法
   - 六大子法
     - 資通安全管理法施行細則
@@ -19,7 +19,7 @@
     - 資通安全維護計畫撰寫及實施情形填報
     - 辦理受託業務-受託者之選任及監督
     - 資通安全事件通報及應變
-- ISO 27001:2022資訊安全管理系統 Information security management systems
+- B.ISO 27001:2022資訊安全管理系統 Information security management systems
   - ISMS建置流程
 ## 第3單元 資通安全風險管理與業務持續運作管理
 - [風險管理](./risk.md)
