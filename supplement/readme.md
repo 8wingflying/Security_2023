@@ -31,7 +31,7 @@
       - 資通安全維護計畫撰寫及實施情形填報
       - 辦理受託業務-受託者之選任及監督
     - [國家機密保護法(41條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0060003)
-    - [個人資料保護法(56條)]](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050021)
+    - [個人資料保護法(56條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050021)
 - B.ISO 27001:2022資訊安全管理系統 Information security management systems [補充資料](./ISMS.MD)
   - 資訊安全管理系統 Information security management systems
   - 資訊安全管理系統(ISMS)-內容架構
