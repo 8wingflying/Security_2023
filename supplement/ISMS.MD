@@ -9,7 +9,8 @@
 ```
 
 ```
-請問 ISO/IEC 27001 指導組織用下列何種方法來持續改善資訊安全管理系統(Information Security Management System, ISMS)活動，以落實控制措施之實施？
+請問 ISO/IEC 27001 指導組織用下列何種方法來持續改善資訊安全管理系統(Information Security Management System, ISMS)活動，
+以落實控制措施之實施？
 (A) P（規劃）→D（執行）→C（檢查）→A（行動）    (B) D（執行）→P（規劃）→C（檢查）→A（行動）
 (C) C（檢查）→D（執行）→P（規劃）→A（行動）    (D) A（行動）→D（執行）→C（檢查）→P（規劃）
 ```
