@@ -33,6 +33,20 @@
     - [國家機密保護法]()
     - [個人資料保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050021)
 - B.ISO 27001:2022資訊安全管理系統 Information security management systems [補充資料](./ISMS.MD)
+  - 資訊安全管理系統 Information security management systems
+  - ISO/IEC 27001：2022版本 
+    - 4 大關鍵領域(2013版本:14 個)
+      - 1.組織
+      - 2.人員
+      - 3.實體
+      - 4.技術
+    - 93項控制措施(2013版本:114 項) 部分控制措施被合併，另一些被刪除，引入了新的控制措施(11個)，還有一些做更新
+    - 引入新的5大屬性
+      - 1.控制類型
+      - 2.資安特性
+      - 3.網路安全概念
+      - 4.執行能力
+      - 5.安全領域 
   - ISMS建置流程
 ## 第3單元 資通安全風險管理與業務持續運作管理
 - [風險管理](./risk.md)
