@@ -52,9 +52,9 @@
         - 對應到 NIST CSF 架構的哪一個?  ==> 辨識(IDENTIFY)| 保護(PROTECT)	|偵測(DETECT)	|應變(RESPOND)
       - 4.執行能力Operational Capabilitie
       - 5.安全領域 Security Domains
-  - ISMS導入對機關人員之影響
-  - 
-
+  - ISMS導入 ==> PDCA
+  - ISMS導入對`機關人員`之影響(四點)
+  - ISMS導入後對`機關`之影響(五點)
   - ISMS建置流程
   - [ISO 27001：2022資訊安全管理系統主導稽核員訓練課程](https://www.uuu.com.tw/Course/Show/1600/ISO-27001-2013%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1%E4%B8%BB%E5%B0%8E%E7%A8%BD%E6%A0%B8%E5%93%A1%E8%A8%93%E7%B7%B4%E8%AA%B2%E7%A8%8B)
 ## 第3單元 資通安全風險管理與業務持續運作管理
