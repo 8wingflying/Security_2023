@@ -166,9 +166,10 @@
     - IR-6: Incident Reporting
     - IR-7: Incident Response Assistance
     - IR-8: Incident Response Plan
-    -  電腦緊急應變小組（Computer Emergency Response Team，CERT）
-    -  電腦資安事件應變小組（Computer Security Incident Response Team，CSIRT）
-    -  產品資安事件應變小組（Product Security Incident Response Team，PSIRT）
+    - 電腦緊急應變小組（Computer Emergency Response Team，CERT）
+    - 電腦資安事件應變小組（Computer Security Incident Response Team，CSIRT）
+      - [CSIRT| ithome專刊](https://www.ithome.com.tw/taxonomy/term/13043/all)
+    - 產品資安事件應變小組（Product Security Incident Response Team，PSIRT）
 
 - [Incident Handling & Response Career Path(入侵處理與響應 資安職涯發展) | EC-Council](https://www.eccouncil.org/incident-handling-response-career-path/)
  
