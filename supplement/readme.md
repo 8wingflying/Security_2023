@@ -23,15 +23,15 @@
       - 4.[資通安全情資分享辦法(11條)](https://law.moj.gov.tw/lawclass/lawall.aspx?pcode=a0030307)
       - 5.[特定非公務機關資通安全維護計畫實施情形稽核辦法(10條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?media=print&pcode=A0030306)
       - 6.[公務機關所屬人員資通安全事項獎懲辦法(7條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030308)
-    - 資安法常見問題
+    - [資安法常見問題](https://moda.gov.tw/ACS/laws/faq/28/646)
       - 納管對象及範圍
       - 資通安全責任等級分級
       - 資通安全責任等級分級之應辦事項-資安專職人力及證照
       - 資通安全責任等級分級應辦事項-其他
       - 資通安全維護計畫撰寫及實施情形填報
       - 辦理受託業務-受託者之選任及監督
-    - [國家機密保護法]()
-    - [個人資料保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050021)
+    - [國家機密保護法(41條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0060003)
+    - [個人資料保護法(56條)]](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050021)
 - B.ISO 27001:2022資訊安全管理系統 Information security management systems [補充資料](./ISMS.MD)
   - 資訊安全管理系統 Information security management systems
   - ISO/IEC 27001：2022版本 
