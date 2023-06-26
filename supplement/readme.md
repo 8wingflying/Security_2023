@@ -1,22 +1,26 @@
 # 資通安全概論(三天課程)
 
 ## 第1單元 資通安全基本觀念
-- 資通安全目標: CIA
+- [資通安全目標: CIA](CIA.md)
 - NIST CSF 安全架構 [NIST CSF 安全架構](NIST_CSF.md)
 ## 第2單元 資通安全相關法規
-- 資通安全管理法
-- 六大子法
-  - 資通安全管理法施行細則
-  - 資通安全責任等級分級辦法
-  - 特定非公務機關資通安全維護計畫實施情形稽核辦法
-  - 資通安全情資分享辦法
-
-
-
-
-
- 
-- ISMS建置流程
+- 法規
+  - 資通安全管理法
+  - 六大子法
+    - 資通安全管理法施行細則
+    - 資通安全責任等級分級辦法
+    - 特定非公務機關資通安全維護計畫實施情形稽核辦法
+    - 資通安全情資分享辦法
+  - 資安法常見問題
+    - 納管對象及範圍
+    - 資通安全責任等級分級
+    - 資通安全責任等級分級之應辦事項-資安專職人力及證照
+    - 資通安全責任等級分級應辦事項-其他
+    - 資通安全維護計畫撰寫及實施情形填報
+    - 辦理受託業務-受託者之選任及監督
+    - 資通安全事件通報及應變
+- ISO 27001:2022資訊安全管理系統 Information security management systems
+  - ISMS建置流程
 ## 第3單元 資通安全風險管理與業務持續運作管理
 - [風險管理](./risk.md)
 - [業務持續運作管理](./BCM.md)
@@ -89,10 +93,8 @@
     - 4.伺服器主機惡意活動檢視
     - 5.目錄伺服器(Directory Service)設定檢視 ==> Windows Server 2022 AD(active Directory)的安全設定
     - 6.防火牆連線設定檢視 ==>防火牆規則檢視
-- 資通安全健診:流程
-
-
-
+- 資通安全健診:流程
+- 
 ## 第10單元 資通安全事件通報及應變
 - incident vs event
 - [資通安全事件通報及應變辦法(共21條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030305)
@@ -121,8 +123,22 @@
   - 目的
   - 資安事件處理計畫
   - 資安事件處理程序|流程
+    - 準備：資安事件處理時所需之專業人員、組織分工、處理與鑑識的訓練、計畫與程序的編撰及模擬演練
+識別：當資安事件發生時，第一步驟是識別資安事件的嚴重性與影響範圍
+封鎖：封鎖入侵來源，以避免災害擴大
+根除：徹底清除被植入的惡意程式並修補被入侵的管道。
+回復：被入侵的系統回復至正常運作的狀況
+經驗學習：在事件中學習到相關的經驗，並反應在資安政策與防護措施上，以避免相同問題再度發生
+
+ 
   - NIST SP 800-53, Revision 5| IR: Incident Response   Controls [參考資料](https://csf.tools/reference/nist-sp-800-53/r5/ir/)
     - IR-1: Policy and Procedures
+    - IR-2: Incident Response Training
+    - IR-3: Incident Response Testing  ==> BASELINE(S):Moderate  High   Privacy
+    - IR-4: Incident Handling
+    - IR-6: Incident Reporting
+    - IR-7: Incident Response Assistance
+    - IR-8: Incident Response Plan
     -  電腦緊急應變小組（Computer Emergency Response Team，CERT）
     -  電腦資安事件應變小組（Computer Security Incident Response Team，CSIRT）
     -  產品資安事件應變小組（Product Security Incident Response Team，PSIRT）
