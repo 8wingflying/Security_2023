@@ -102,9 +102,14 @@
   - 媒體控管-安全丟棄(disposal)
  - 可攜式設備管理(Mobile device management|MDM)
  - 弱點掃描(Vulnerability Scanning) ==> 目的 |
-   -  [OWASP|Vulnerability Scanning Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
-   -  系統弱點掃描 ==> Nessus Pro
-   -  網站弱點掃描 ==>
+   -  [OWASP|Vulnerability Scanning Tools| Dynamic Application Security Testing (DAST)](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
+   -  系統弱點掃描 ==> Nessus Pro | Nexpose
+   -  網頁弱點掃描 ==> Acunetix | HCL AppScan(原IBM Security AppScan) |
+ - 滲透測試(Penetration Tezt)
+ - 稽核作業(Logging)-稽核紀錄分析(log analysis)
+   - 稽核紀錄的保護(log protection)
+   - [NIST SP 800-92 Guide to Computer Security Log Management](https://csrc.nist.gov/publications/detail/sp/800-92/final)
+ 
 
 
 
