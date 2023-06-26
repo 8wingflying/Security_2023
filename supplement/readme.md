@@ -9,19 +9,29 @@
 - NIST CSF 安全架構 [NIST CSF 安全架構](NIST_CSF.md)
 ## 第2單元 資通安全相關法規
 - A.法規
-  - 資通安全管理法
-  - 六大子法
-    - 資通安全管理法施行細則
-    - 資通安全責任等級分級辦法
-    - 特定非公務機關資通安全維護計畫實施情形稽核辦法
-    - 資通安全情資分享辦法
-  - 資安法常見問題
-    - 納管對象及範圍
-    - 資通安全責任等級分級
-    - 資通安全責任等級分級之應辦事項-資安專職人力及證照
-    - 資通安全責任等級分級應辦事項-其他
-    - 資通安全維護計畫撰寫及實施情形填報
-    - 辦理受託業務-受託者之選任及監督
+  - 行政院國家資通安全會報
+  - 資通安全管理法與子法
+    - [資通安全管理法(23條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030297)
+    - 六大子法
+      - 1.[資通安全管理法施行細則(13條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030303)
+      - 2.[資通安全責任等級分級辦法(12條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030304)
+        - 第 2 條 公務機關及特定非公務機關（以下簡稱各機關）之資通安全責任等級，由高至低，分為 A 級、B 級、C 級、D 級及 E 級。
+        - 附表1-8:應辦事項
+        - 附表九 資通系統防護需求分級原則
+        - 附表十 資通系統防護基準
+      - 3.[資通安全事件通報及應變辦法(21條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030305)
+      - 4.[資通安全情資分享辦法(11條)](https://law.moj.gov.tw/lawclass/lawall.aspx?pcode=a0030307)
+      - 5.[特定非公務機關資通安全維護計畫實施情形稽核辦法(10條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?media=print&pcode=A0030306)
+      - 6.[公務機關所屬人員資通安全事項獎懲辦法(7條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030308)
+    - 資安法常見問題
+      - 納管對象及範圍
+      - 資通安全責任等級分級
+      - 資通安全責任等級分級之應辦事項-資安專職人力及證照
+      - 資通安全責任等級分級應辦事項-其他
+      - 資通安全維護計畫撰寫及實施情形填報
+      - 辦理受託業務-受託者之選任及監督
+    - 應辦事項.PDF
+    - 個人資料保護法
     - 資通安全事件通報及應變
 - B.ISO 27001:2022資訊安全管理系統 Information security management systems
   - ISMS建置流程
