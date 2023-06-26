@@ -60,7 +60,56 @@
 ## 第3單元 資通安全風險管理與業務持續運作管理
 - [風險管理](./risk.md)
 - [業務持續運作管理](./BCM.md)
-## 第4單元 作業安全
+## 第4單元 作業安全 
+- 軟硬體維護
+- 組態管理(Configuration Management)
+  - 組態管理Configuration Management)
+  - 組態`變更`管理(Configuration Change Management)
+  - 政府組態基準導入  ==> [政府組態基準(Government Configuration Baseline|GCB)](https://www.nics.nat.gov.tw/GCB.htm?lang=zh)
+  - 政府機關弱點通報機制 ==> [ 資通安全弱點通報系統(Vulnerability Analysis and Notice System| VANS)](https://www.nics.nat.gov.tw/Vans.htm?lang=zh)
+- 監控與問題管理
+  - 異常的監控
+    - 1.可用性監控
+    - 2.完整性監控
+    - 3.入侵偵測監控
+    - 4.異常管理流程(incident handling)
+    - 5.問題管理流程(problem handling)
+  - 問題管理(Problem management)
+    - 問題管理 WHAT
+      - Problem management is the process of identifying and managing the causes of incidents on an IT service.
+      - It is a core component of `ITSM(資訊科技服務管理|IT Service Management|ITSM|IT服務管理)`frameworks.
+      - ITSM模組
+        - 事故管理（Incident Management，ITIM）
+        - 問題管理（Problem Management，ITPM）
+        - 組態管理（Configuration Management）
+        - 變更管理（Change Management，ITCM）
+        - 財務管理（Financial Management for IT Services，ITFM）
+    - 與作業安全的關聯 ==> 三大目標
+      - 1.降低問題在服務上的衝擊
+      - 2.降低錯誤與失敗狀況至可接受的基準
+      - 3.防止相同問題重覆發生
+    - 問題管理流程(problem handling)
+      - 1.定義問題`優先序`
+      - 2.調查分析問題發生`根本原因(ROOT CAUSE)`、問題追蹤(Problem tracking)
+        - [根本原因分析|root cause analysis|RCA](https://zh.wikipedia.org/zh-tw/%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90)
+        - [Problem Tracking Software Market Analysis 2022 | Demonstrates A Spectacular Growth By 2031](https://www.taiwannews.com.tw/en/news/4545236) 
+      - 3.解決方案測試與實作 
+- 資料備份管理
+- 媒體控管(media management)
+  - 媒體控管-目的及工作
+  - 媒體控管-標示(labelling)
+  - 媒體控管-重用(reuse)
+  - 媒體控管-安全丟棄(disposal)
+ - 可攜式設備管理(Mobile device management|MDM)
+ - 弱點掃描(Vulnerability Scanning) ==> 目的 |
+   -  [OWASP|Vulnerability Scanning Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
+   -  系統弱點掃描 ==> Nessus Pro
+   -  網站弱點掃描 ==>
+
+
+
+
+- CISSP| Domain 7. Security Operations
 ## 第5單元 資訊委外安全
 ## 第6單元 存取控制與加解密技術
 - 存取控制
