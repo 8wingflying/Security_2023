@@ -60,7 +60,7 @@
 ## 第3單元 資通安全風險管理與業務持續運作管理
 - [風險管理](./risk.md)
 - [業務持續運作管理](./BCM.md)
-## 第4單元 作業安全 
+## 第4單元 作業安全 | 營運安全 security operation
 - 軟硬體維護
 - 組態管理(Configuration Management)
   - 組態管理Configuration Management)
