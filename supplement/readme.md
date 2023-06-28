@@ -163,6 +163,7 @@
     - 網頁應用程式防火牆(Web Application Firewall, WAF)：針對應用層攻擊進行防禦
     - 滲透測試(Penetration Test, PT )：模擬攻擊者行為找出網站漏洞 ==> 黑盒分析(blackbox)
     - 網站弱點評估(Web Vulnerability Assessment)：使用掃描工具檢測弱點
+      - ==> DAST（dynamic Application Security Testing，動態應用程式安全測試） 
 - 行動應用程式安全(Mobile app Security)
   - 政府行動化安全防護規劃報告V1.0」第61~62頁
   - 行動應用程式的開發過程，會衍生二大安全議題:
