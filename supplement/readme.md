@@ -129,7 +129,7 @@
 ## 第6單元 存取控制與加解密技術
 - 存取控制 [IPAS示範題目](./access.md)
 - 身分驗證 [IPAS示範題目](./Authentication.md)
-- 密碼學加解密技術
+- 密碼學加解密技術 [IPAS示範題目](./Crypto.md)
   - 密碼學的應用 [補充教材下載](./密碼學的應用.pdf) 
     - 密碼學的應用1:數位信封與數位簽章 [教學影片](https://youtu.be/LIG-mXyJTG0)
     - 密碼學的應用2:PKI 公開金鑰基礎建設[教學影片](https://youtu.be/G02vkzLSrE4)
