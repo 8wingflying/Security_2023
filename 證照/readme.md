@@ -10,13 +10,16 @@
   - [初級資訊安全工程師能力鑑定](https://www.ipas.org.tw/ISE/AbilityExamBulletinList.aspx?exmno=53521ea9-1f19-4f78-a13c-00e51edf943e)
     - 特別留意: 此課程`不是`「行政院國家資通安全會報」認可之資通安全專業證照
     - 考試項目 :1.資訊安全管理概論 2.資訊安全技術概論
-  - [中級資訊安全工程師能力鑑定](https://www.ipas.org.tw/ISE/AbilityExamBulletinList.aspx?exmno=8af59a16-8cff-4f54-8e2a-bd08d280fefe)
+  - 👍 [中級資訊安全工程師能力鑑定](https://www.ipas.org.tw/ISE/AbilityExamBulletinList.aspx?exmno=8af59a16-8cff-4f54-8e2a-bd08d280fefe)
     - 此課程為「行政院國家資通安全會報」認可之資通安全專業證照
     - 考試項目 :1. 資訊安全規劃實務 2. 資訊安全防護實務
+    - 內容有深度,比較難自修
+    - 參閱 龍大大開設的四天 IPAS 中級資訊安全工程師證照班
 # 資安專業證照:國際資安專業證照
 - 管理
   - CISSP(Certified Information Systems Security Professional)
     - [CISSP資安系統專家認證課程](https://www.uuu.com.tw/Course/Show/47/CISSP-%E8%B3%87%E5%AE%89%E7%B3%BB%E7%B5%B1%E5%B0%88%E5%AE%B6%E8%AA%8D%E8%AD%89%E8%AA%B2%E7%A8%8B)
+    - 此課程為「行政院國家資通安全會報」認可之資通安全專業證照
     - [WUSON Private School 的CISSP課程](https://wentzwu.com/courses/)
 - 技術
   - EC-Council Ethical Hacking and Countermeasures
